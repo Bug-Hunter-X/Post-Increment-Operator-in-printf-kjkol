@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates unexpected behavior when using the post-increment operator within a printf statement.  The program intends to print the value of x, then increment it, but the output is unexpected. The solution shows the correct implementation to achieve the desired output.
